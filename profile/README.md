@@ -30,22 +30,22 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://avatars.githubusercontent.com/u/117979301?s=200&v=4" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Welcome!</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    This is not actually a company, it is a account that I just made to better showcase my projects :D
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/HisMajestyChocoMint"><strong>My personal Github account if you would like to see more of my projects »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/meltedchocolateandmint/.github">View Source Code</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="mailto:mohamadamiyaz@gmail.com">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/HisMajestyChocoMint/.github/issues">Request Feature</a>
   </p>
 </div>
 
@@ -56,7 +56,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#what-do-i-do-here-o-github">What do I do on Github</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -72,7 +72,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="mailto:mohamadamiyaz@gmail.com">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
