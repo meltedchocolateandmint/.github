@@ -44,15 +44,6 @@
   </p>
 </div>
 
-
-
-<!-- What do we do here? -->
-## What do we do here?
-
-First, you have to take note that this is not an actual company. I just made this company account to showcase my best github repositories. 
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
